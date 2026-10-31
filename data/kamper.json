@@ -1,0 +1,327 @@
+{
+ "oppdatert": "2026-10-31T16:54:54.897Z",
+ "klubb": 60781,
+ "antall": 32,
+ "kamper": [
+  {
+   "dato": "2026-10-31",
+   "tid": "12:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "MHI/Holum",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415602"
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart 2",
+   "borte": "Øyestad 2",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430898"
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "15:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Froland",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8476200"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "11:40",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Våg 2",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385331"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "12:00",
+   "hall": "Håneshallen",
+   "hjemme": "Vindbjart/Hånes 2",
+   "borte": "MHI 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412601"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Otra",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385333"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "15:00",
+   "hall": "Møglestuhallen",
+   "hjemme": "Høvdingen/Lillesand 2",
+   "borte": "Vindbjart/Øvrebø",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415613"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "15:40",
+   "hall": "Venneslahallen",
+   "hjemme": "AK 28 4",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385337"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "16:00",
+   "hall": "Havlimyrhallen",
+   "hjemme": "Gimletroll 2",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430900"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "16:50",
+   "hall": "Gimlehallen  2",
+   "hjemme": "Gimletroll 3",
+   "borte": "Vindbjart",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405392"
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "17:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Våg ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385339"
+  },
+  {
+   "dato": "2026-11-03",
+   "tid": "20:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Øyestad",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402004"
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart 2",
+   "borte": "Lund 2",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430907"
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "15:30",
+   "hall": "Nodelandshallen",
+   "hjemme": "Greipstad/Søgne 2",
+   "borte": "Vindbjart/Hånes",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407028"
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "16:00",
+   "hall": "Kvinesdalshallen",
+   "hjemme": "Kvinesdal",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428909"
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "12:00",
+   "hall": "Tinntjønnhallen",
+   "hjemme": "Søgne",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, A-serie 02",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430774"
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "14:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "Sørfjell",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415701"
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "15:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Fløy 2",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428913"
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "16:50",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes",
+   "borte": "Randesund 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407033"
+  },
+  {
+   "dato": "2026-11-09",
+   "tid": "19:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Lillesand 2",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406021"
+  },
+  {
+   "dato": "2026-11-11",
+   "tid": "20:45",
+   "hall": "Sukkevann Idrettshall 2",
+   "hjemme": "Randesund 2",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406030"
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "14:40",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes",
+   "borte": "Strømmen Glimt/Hisøy 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407022"
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "16:40",
+   "hall": "Nedeneshallen",
+   "hjemme": "Strømmen-Glimt 2",
+   "borte": "Vindbjart",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402011"
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "16:50",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes 2",
+   "borte": "Søgne/Greipstad 3",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412608"
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "14:00",
+   "hall": "Ueneshallen",
+   "hjemme": "Flekkefjord 2",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428931"
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "14:00",
+   "hall": "Tveit Idrettshall",
+   "hjemme": "Tveit/Hånes 2",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444472"
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "14:30",
+   "hall": "Otrahallen",
+   "hjemme": "Otra",
+   "borte": "Vindbjart/Hånes 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412605"
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "16:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Randesund 3",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, A-serie 02",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430777"
+  },
+  {
+   "dato": "2026-11-16",
+   "tid": "19:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Søgne/Greipstad",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406036"
+  },
+  {
+   "dato": "2026-11-17",
+   "tid": "19:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "AK 28",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415601"
+  },
+  {
+   "dato": "2026-11-20",
+   "tid": "19:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Randesund 3",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444492"
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "13:00",
+   "hall": "Byremohallen",
+   "hjemme": "Grindheim",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428920"
+  }
+ ]
+}
