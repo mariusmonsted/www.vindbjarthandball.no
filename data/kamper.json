@@ -1,38 +1,8 @@
 {
- "oppdatert": "2026-10-31T16:54:54.897Z",
+ "oppdatert": "2026-11-01T10:09:35.544Z",
  "klubb": 60781,
- "antall": 32,
+ "antall": 39,
  "kamper": [
-  {
-   "dato": "2026-10-31",
-   "tid": "12:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart/Øvrebø",
-   "borte": "MHI/Holum",
-   "klasse": "Gutter 14",
-   "turnering": "Gutter 14, Breddeserie 03",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415602"
-  },
-  {
-   "dato": "2026-10-31",
-   "tid": "13:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart 2",
-   "borte": "Øyestad 2",
-   "klasse": "Jenter 13",
-   "turnering": "Jenter 13, Breddeserie 03",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430898"
-  },
-  {
-   "dato": "2026-10-31",
-   "tid": "15:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart",
-   "borte": "Froland",
-   "klasse": "5. divisjon Kvinner - 01",
-   "turnering": "5. divisjon Kvinner - 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8476200"
-  },
   {
    "dato": "2026-11-01",
    "tid": "11:40",
@@ -322,6 +292,106 @@
    "klasse": "Jenter 14",
    "turnering": "Jenter 14, Breddeserie 05",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428920"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:00",
+   "hall": "Tinntjønnhallen - Mini 2",
+   "hjemme": "Vindbjart ",
+   "borte": "Søgne 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402407"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:30",
+   "hall": "Tinntjønnhallen - Mini 1",
+   "hjemme": "Otra 2",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402408"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:30",
+   "hall": "Tinntjønnhallen - Mini 2",
+   "hjemme": "Greipstad ",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402413"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "12:30",
+   "hall": "Tinntjønnhallen - Mini 1",
+   "hjemme": "Otra ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402416"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "13:00",
+   "hall": "Tinntjønnhallen - Mini 2",
+   "hjemme": "Søgne ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402419"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "13:00",
+   "hall": "Sparebanken Sør hallen Vigeland",
+   "hjemme": "Giv Akt",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428942"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "15:40",
+   "hall": "Mjåvann Idrettshall A",
+   "hjemme": "Tvedestrand ",
+   "borte": "Vindbjart",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405432"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "15:40",
+   "hall": "Venneslahallen",
+   "hjemme": "Våg 1",
+   "borte": "Il Vindbjart",
+   "klasse": "REMA 1000 Hjerteligaen Agder B01",
+   "turnering": "REMA 1000 Hjerteligaen Agder B01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8437098"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "17:40",
+   "hall": "Venneslahallen",
+   "hjemme": "Greipstad",
+   "borte": "Il Vindbjart",
+   "klasse": "REMA 1000 Hjerteligaen Agder B01",
+   "turnering": "REMA 1000 Hjerteligaen Agder B01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8437099"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "19:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Grimstad studentidrettslag",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8401977"
   }
  ]
 }
