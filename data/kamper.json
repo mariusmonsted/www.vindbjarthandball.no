@@ -1,7 +1,7 @@
 {
- "oppdatert": "2026-11-06T10:27:38.961Z",
+ "oppdatert": "2026-11-07T09:40:55.038Z",
  "klubb": 60781,
- "antall": 30,
+ "antall": 35,
  "kamper": [
   {
    "dato": "2026-11-07",
@@ -302,6 +302,56 @@
    "klasse": "5. divisjon Kvinner - 01",
    "turnering": "5. divisjon Kvinner - 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8401977"
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "12:30",
+   "hall": "Karusshallen ",
+   "hjemme": "Våg 2",
+   "borte": "Vindbjart/Hånes 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412600"
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "13:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Farsund og Lista 2",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428926"
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "13:40",
+   "hall": "Karusshallen ",
+   "hjemme": "Våg 2",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430915"
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "14:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "Trauma ",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415615"
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "15:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes",
+   "borte": "Trauma/Grane 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407044"
   }
  ]
 }
