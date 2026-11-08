@@ -1,38 +1,8 @@
 {
- "oppdatert": "2026-11-07T16:47:21.289Z",
+ "oppdatert": "2026-11-08T09:55:07.999Z",
  "klubb": 60781,
- "antall": 35,
+ "antall": 36,
  "kamper": [
-  {
-   "dato": "2026-11-07",
-   "tid": "13:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart 2",
-   "borte": "Lund 2",
-   "klasse": "Jenter 13",
-   "turnering": "Jenter 13, Breddeserie 03",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430907"
-  },
-  {
-   "dato": "2026-11-07",
-   "tid": "15:30",
-   "hall": "Nodelandshallen",
-   "hjemme": "Greipstad/Søgne 2",
-   "borte": "Vindbjart/Hånes",
-   "klasse": "Jenter 15",
-   "turnering": "Jenter 15, A-serie 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407028"
-  },
-  {
-   "dato": "2026-11-07",
-   "tid": "16:00",
-   "hall": "Kvinesdalshallen",
-   "hjemme": "Kvinesdal",
-   "borte": "Vindbjart",
-   "klasse": "Jenter 14",
-   "turnering": "Jenter 14, Breddeserie 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428909"
-  },
   {
    "dato": "2026-11-08",
    "tid": "12:00",
@@ -352,6 +322,46 @@
    "klasse": "Jenter 15",
    "turnering": "Jenter 15, A-serie 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407044"
+  },
+  {
+   "dato": "2026-11-29",
+   "tid": "13:20",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes 2",
+   "borte": "Farsund og Lista 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412614"
+  },
+  {
+   "dato": "2026-11-29",
+   "tid": "13:30",
+   "hall": "Listahallen",
+   "hjemme": "Farsund og Lista ",
+   "borte": "Vindbjart",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406043"
+  },
+  {
+   "dato": "2026-11-29",
+   "tid": "15:30",
+   "hall": "Gimlehallen  1",
+   "hjemme": "Kristiansandkameratene Fotball Klubb 2",
+   "borte": "Vindbjart",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402022"
+  },
+  {
+   "dato": "2026-11-29",
+   "tid": "16:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Lund ",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, A-serie 02",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430786"
   }
  ]
 }
