@@ -1,18 +1,8 @@
 {
- "oppdatert": "2026-11-09T10:58:32.096Z",
+ "oppdatert": "2026-11-10T10:50:06.527Z",
  "klubb": 60781,
- "antall": 32,
+ "antall": 33,
  "kamper": [
-  {
-   "dato": "2026-11-09",
-   "tid": "19:30",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart",
-   "borte": "Lillesand 2",
-   "klasse": "Jenter 16",
-   "turnering": "Jenter 16, Breddeserie 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406021"
-  },
   {
    "dato": "2026-11-11",
    "tid": "20:45",
@@ -322,6 +312,26 @@
    "klasse": "Jenter 13",
    "turnering": "Jenter 13, A-serie 02",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430786"
+  },
+  {
+   "dato": "2026-11-30",
+   "tid": "19:00",
+   "hall": "Håneshallen",
+   "hjemme": "Vindbjart/Hånes",
+   "borte": "Randesund 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407033"
+  },
+  {
+   "dato": "2026-12-01",
+   "tid": "18:30",
+   "hall": "Sparebanken Sør hallen Vigeland",
+   "hjemme": "Giv Akt",
+   "borte": "Vindbjart/Hånes 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412616"
   }
  ]
 }
