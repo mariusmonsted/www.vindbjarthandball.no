@@ -1,7 +1,7 @@
 {
- "oppdatert": "2026-11-13T10:38:13.505Z",
+ "oppdatert": "2026-11-14T09:51:45.366Z",
  "klubb": 60781,
- "antall": 32,
+ "antall": 42,
  "kamper": [
   {
    "dato": "2026-11-14",
@@ -322,6 +322,106 @@
    "klasse": "Jenter 15",
    "turnering": "Jenter 15, Breddeserie 04",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412616"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "10:00",
+   "hall": "Flekkerøyhallen",
+   "hjemme": "AK 28 4",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385340"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "11:45",
+   "hall": "Flekkerøyhallen",
+   "hjemme": "Vindbjart ",
+   "borte": "AK 28 3",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385343"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "12:55",
+   "hall": "Flekkerøyhallen",
+   "hjemme": "Flekkerøy",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385345"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "MHI/Giv akt/Holum/Marnardal",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405450"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "13:50",
+   "hall": "Torridalshallen",
+   "hjemme": "Torridal/Øvrebø",
+   "borte": "Vindbjart/Hånes 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8453151"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "14:40",
+   "hall": "Flekkerøyhallen",
+   "hjemme": "Vindbjart 2",
+   "borte": "Våg 2",
+   "klasse": "Jenter 10",
+   "turnering": "Jenter 10, ice 5-er-håndball 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8385348"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "14:40",
+   "hall": "Otrahallen",
+   "hjemme": "Otra",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444500"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "14:50",
+   "hall": "Mandalshallen gamle",
+   "hjemme": "MHI/Holum 2",
+   "borte": "Vindbjart/Øvrebø",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415624"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "15:10",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Express/Hisøy 2",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406051"
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "15:30",
+   "hall": "Listahallen",
+   "hjemme": "Farsund og Lista",
+   "borte": "Vindbjart/Hånes",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407046"
   }
  ]
 }
