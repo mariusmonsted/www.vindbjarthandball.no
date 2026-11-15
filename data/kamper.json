@@ -1,38 +1,8 @@
 {
- "oppdatert": "2026-11-14T16:54:04.770Z",
+ "oppdatert": "2026-11-15T10:28:20.883Z",
  "klubb": 60781,
- "antall": 42,
+ "antall": 43,
  "kamper": [
-  {
-   "dato": "2026-11-14",
-   "tid": "14:40",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart/Hånes",
-   "borte": "Strømmen Glimt/Hisøy 2",
-   "klasse": "Jenter 15",
-   "turnering": "Jenter 15, A-serie 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407022"
-  },
-  {
-   "dato": "2026-11-14",
-   "tid": "16:40",
-   "hall": "Nedeneshallen",
-   "hjemme": "Strømmen-Glimt 2",
-   "borte": "Vindbjart",
-   "klasse": "5. divisjon Kvinner - 01",
-   "turnering": "5. divisjon Kvinner - 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402011"
-  },
-  {
-   "dato": "2026-11-14",
-   "tid": "16:50",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart/Hånes 2",
-   "borte": "Søgne/Greipstad 3",
-   "klasse": "Jenter 15",
-   "turnering": "Jenter 15, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412608"
-  },
   {
    "dato": "2026-11-15",
    "tid": "14:00",
@@ -422,6 +392,46 @@
    "klasse": "Jenter 15",
    "turnering": "Jenter 15, A-serie 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407046"
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "11:00",
+   "hall": "Idda Arena",
+   "hjemme": "Kristiansand 2",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444491"
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "14:00",
+   "hall": "Otrahallen",
+   "hjemme": "Otra",
+   "borte": "Vindbjart",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405445"
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "15:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart 2",
+   "borte": "Randesund 4",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430916"
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "15:30",
+   "hall": "Nedeneshallen",
+   "hjemme": "Strømmen Glimt 3",
+   "borte": "Vindbjart",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8434994"
   }
  ]
 }
