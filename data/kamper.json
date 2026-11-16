@@ -1,48 +1,8 @@
 {
- "oppdatert": "2026-11-15T17:37:38.684Z",
+ "oppdatert": "2026-11-16T10:43:05.205Z",
  "klubb": 60781,
- "antall": 43,
+ "antall": 39,
  "kamper": [
-  {
-   "dato": "2026-11-15",
-   "tid": "14:00",
-   "hall": "Ueneshallen",
-   "hjemme": "Flekkefjord 2",
-   "borte": "Vindbjart",
-   "klasse": "Jenter 14",
-   "turnering": "Jenter 14, Breddeserie 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428931"
-  },
-  {
-   "dato": "2026-11-15",
-   "tid": "14:00",
-   "hall": "Tveit Idrettshall",
-   "hjemme": "Tveit/Hånes 2",
-   "borte": "Vindbjart ",
-   "klasse": "Jenter 12",
-   "turnering": "Jenter 12, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444472"
-  },
-  {
-   "dato": "2026-11-15",
-   "tid": "14:30",
-   "hall": "Otrahallen",
-   "hjemme": "Otra",
-   "borte": "Vindbjart/Hånes 2",
-   "klasse": "Jenter 15",
-   "turnering": "Jenter 15, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412605"
-  },
-  {
-   "dato": "2026-11-15",
-   "tid": "16:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart ",
-   "borte": "Randesund 3",
-   "klasse": "Jenter 13",
-   "turnering": "Jenter 13, A-serie 02",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430777"
-  },
   {
    "dato": "2026-11-16",
    "tid": "19:30",
