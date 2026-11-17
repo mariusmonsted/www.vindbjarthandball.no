@@ -1,18 +1,8 @@
 {
- "oppdatert": "2026-11-16T10:43:05.205Z",
+ "oppdatert": "2026-11-17T11:31:53.583Z",
  "klubb": 60781,
- "antall": 39,
+ "antall": 38,
  "kamper": [
-  {
-   "dato": "2026-11-16",
-   "tid": "19:30",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart",
-   "borte": "Søgne/Greipstad",
-   "klasse": "Jenter 16",
-   "turnering": "Jenter 16, Breddeserie 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406036"
-  },
   {
    "dato": "2026-11-17",
    "tid": "19:30",
@@ -105,17 +95,7 @@
   },
   {
    "dato": "2026-11-22",
-   "tid": "15:40",
-   "hall": "Mjåvann Idrettshall A",
-   "hjemme": "Tvedestrand ",
-   "borte": "Vindbjart",
-   "klasse": "Gutter 15-16",
-   "turnering": "Gutter 15-16, A/Breddeserie 01",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405432"
-  },
-  {
-   "dato": "2026-11-22",
-   "tid": "15:40",
+   "tid": "15:00",
    "hall": "Venneslahallen",
    "hjemme": "Våg 1",
    "borte": "Il Vindbjart",
@@ -254,6 +234,16 @@
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412616"
   },
   {
+   "dato": "2026-12-01",
+   "tid": "19:30",
+   "hall": "Mjåvann Idrettshall A",
+   "hjemme": "Tvedestrand ",
+   "borte": "Vindbjart",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405432"
+  },
+  {
    "dato": "2026-12-05",
    "tid": "10:00",
    "hall": "Flekkerøyhallen",
@@ -326,7 +316,7 @@
   {
    "dato": "2026-12-05",
    "tid": "14:50",
-   "hall": "Mandalshallen gamle",
+   "hall": "Mandalshallen nye",
    "hjemme": "MHI/Holum 2",
    "borte": "Vindbjart/Øvrebø",
    "klasse": "Gutter 14",
