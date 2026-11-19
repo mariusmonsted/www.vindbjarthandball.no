@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-18T11:14:22.403Z",
+ "oppdatert": "2026-11-19T11:12:50.607Z",
  "klubb": 60781,
  "antall": 37,
  "kamper": [
@@ -115,6 +115,16 @@
   },
   {
    "dato": "2026-11-28",
+   "tid": null,
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Farsund og Lista 2",
+   "klasse": "Jenter 14",
+   "turnering": "Jenter 14, Breddeserie 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428926"
+  },
+  {
+   "dato": "2026-11-28",
    "tid": "12:30",
    "hall": "Karusshallen ",
    "hjemme": "Våg 2",
@@ -122,16 +132,6 @@
    "klasse": "Jenter 15",
    "turnering": "Jenter 15, Breddeserie 04",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412600"
-  },
-  {
-   "dato": "2026-11-28",
-   "tid": "13:30",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart",
-   "borte": "Farsund og Lista 2",
-   "klasse": "Jenter 14",
-   "turnering": "Jenter 14, Breddeserie 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428926"
   },
   {
    "dato": "2026-11-28",
@@ -194,16 +194,6 @@
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402022"
   },
   {
-   "dato": "2026-11-29",
-   "tid": "16:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart ",
-   "borte": "Lund ",
-   "klasse": "Jenter 13",
-   "turnering": "Jenter 13, A-serie 02",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430786"
-  },
-  {
    "dato": "2026-11-30",
    "tid": "19:00",
    "hall": "Håneshallen",
@@ -212,6 +202,16 @@
    "klasse": "Jenter 15",
    "turnering": "Jenter 15, A-serie 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407033"
+  },
+  {
+   "dato": "2026-11-30",
+   "tid": "19:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Lund ",
+   "klasse": "Jenter 13",
+   "turnering": "Jenter 13, A-serie 02",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430786"
   },
   {
    "dato": "2026-12-01",
