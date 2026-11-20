@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-19T11:12:50.607Z",
+ "oppdatert": "2026-11-20T10:58:32.060Z",
  "klubb": 60781,
  "antall": 37,
  "kamper": [
@@ -31,47 +31,37 @@
    "borte": "Søgne 2",
    "klasse": "Jenter 9",
    "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402407"
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510500"
   },
   {
    "dato": "2026-11-22",
    "tid": "10:30",
    "hall": "Tinntjønnhallen - Mini 1",
-   "hjemme": "Otra 2",
+   "hjemme": "Grindheim ",
    "borte": "Vindbjart ",
    "klasse": "Jenter 9",
    "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402408"
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510501"
   },
   {
    "dato": "2026-11-22",
    "tid": "11:30",
    "hall": "Tinntjønnhallen - Mini 2",
-   "hjemme": "Greipstad ",
+   "hjemme": "Otra 2",
    "borte": "Vindbjart ",
    "klasse": "Jenter 9",
    "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402413"
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510506"
   },
   {
    "dato": "2026-11-22",
    "tid": "12:30",
    "hall": "Tinntjønnhallen - Mini 1",
-   "hjemme": "Otra ",
+   "hjemme": "Grindheim 2",
    "borte": "Vindbjart 2",
    "klasse": "Jenter 9",
    "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402416"
-  },
-  {
-   "dato": "2026-11-22",
-   "tid": "13:00",
-   "hall": "Tinntjønnhallen - Mini 2",
-   "hjemme": "Søgne ",
-   "borte": "Vindbjart 2",
-   "klasse": "Jenter 9",
-   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8402419"
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510509"
   },
   {
    "dato": "2026-11-22",
@@ -82,6 +72,16 @@
    "klasse": "Jenter 14",
    "turnering": "Jenter 14, Breddeserie 05",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428942"
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "13:00",
+   "hall": "Tinntjønnhallen - Mini 2",
+   "hjemme": "Søgne ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510512"
   },
   {
    "dato": "2026-11-22",
@@ -345,7 +345,7 @@
   },
   {
    "dato": "2026-12-06",
-   "tid": "14:00",
+   "tid": "13:00",
    "hall": "Otrahallen",
    "hjemme": "Otra",
    "borte": "Vindbjart",
