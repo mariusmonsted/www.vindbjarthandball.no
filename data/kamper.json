@@ -1,18 +1,8 @@
 {
- "oppdatert": "2026-11-20T10:58:32.060Z",
+ "oppdatert": "2026-11-21T10:42:09.681Z",
  "klubb": 60781,
- "antall": 37,
+ "antall": 43,
  "kamper": [
-  {
-   "dato": "2026-11-20",
-   "tid": "19:00",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart ",
-   "borte": "Randesund 3",
-   "klasse": "Jenter 12",
-   "turnering": "Jenter 12, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444492"
-  },
   {
    "dato": "2026-11-21",
    "tid": "13:00",
@@ -372,6 +362,76 @@
    "klasse": "5. divisjon Kvinner - 01",
    "turnering": "5. divisjon Kvinner - 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8434994"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "11:00",
+   "hall": "Venneslahallen - Mini 1",
+   "hjemme": "Otra ",
+   "borte": "Vindbjart ",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510513"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "11:00",
+   "hall": "Venneslahallen - Mini 2",
+   "hjemme": "Otra 2",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510514"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "11:30",
+   "hall": "Venneslahallen - Mini 2",
+   "hjemme": "Vindbjart ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510516"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "12:30",
+   "hall": "Venneslahallen - Mini 1",
+   "hjemme": "Otra ",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510519"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "12:30",
+   "hall": "Venneslahallen - Mini 2",
+   "hjemme": "Vindbjart ",
+   "borte": "Otra 2",
+   "klasse": "Jenter 9",
+   "turnering": "Jenter 9, ice 4-er- og 5-er-håndball 05",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8510520"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "15:50",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Trauma 2",
+   "klasse": "Gutter 15-16",
+   "turnering": "Gutter 15-16, A/Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8405420"
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "17:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "Grane Arendal",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415628"
   }
  ]
 }
