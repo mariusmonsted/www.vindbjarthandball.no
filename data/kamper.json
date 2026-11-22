@@ -1,18 +1,8 @@
 {
- "oppdatert": "2026-11-21T17:55:01.601Z",
+ "oppdatert": "2026-11-22T10:47:41.325Z",
  "klubb": 60781,
- "antall": 43,
+ "antall": 46,
  "kamper": [
-  {
-   "dato": "2026-11-21",
-   "tid": "13:00",
-   "hall": "Byremohallen",
-   "hjemme": "Grindheim",
-   "borte": "Vindbjart",
-   "klasse": "Jenter 14",
-   "turnering": "Jenter 14, Breddeserie 05",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8428920"
-  },
   {
    "dato": "2026-11-22",
    "tid": "10:00",
@@ -432,6 +422,46 @@
    "klasse": "Gutter 14",
    "turnering": "Gutter 14, Breddeserie 03",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415628"
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "13:00",
+   "hall": "Håneshallen",
+   "hjemme": "Vindbjart/Hånes",
+   "borte": "Lund 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, A-serie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8407055"
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Tvedestrand 2",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8476195"
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "14:50",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart ",
+   "borte": "Våg ",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444503"
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "17:30",
+   "hall": "Stueneshallen",
+   "hjemme": "Sørfjell",
+   "borte": "Vindbjart/Øvrebø",
+   "klasse": "Gutter 14",
+   "turnering": "Gutter 14, Breddeserie 03",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415635"
   }
  ]
 }
