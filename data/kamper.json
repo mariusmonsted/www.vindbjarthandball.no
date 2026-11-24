@@ -1,7 +1,7 @@
 {
- "oppdatert": "2026-11-23T11:54:25.540Z",
+ "oppdatert": "2026-11-24T13:20:53.230Z",
  "klubb": 60781,
- "antall": 36,
+ "antall": 37,
  "kamper": [
   {
    "dato": "2026-11-28",
@@ -32,16 +32,6 @@
    "klasse": "Jenter 13",
    "turnering": "Jenter 13, Breddeserie 03",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8430915"
-  },
-  {
-   "dato": "2026-11-29",
-   "tid": "13:20",
-   "hall": "Venneslahallen",
-   "hjemme": "Vindbjart/Hånes 2",
-   "borte": "Farsund og Lista 2",
-   "klasse": "Jenter 15",
-   "turnering": "Jenter 15, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412614"
   },
   {
    "dato": "2026-11-29",
@@ -225,6 +215,16 @@
   },
   {
    "dato": "2026-12-06",
+   "tid": "13:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart/Hånes 2",
+   "borte": "Farsund og Lista 2",
+   "klasse": "Jenter 15",
+   "turnering": "Jenter 15, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8412614"
+  },
+  {
+   "dato": "2026-12-06",
    "tid": "15:00",
    "hall": "Venneslahallen",
    "hjemme": "Vindbjart 2",
@@ -362,6 +362,16 @@
    "klasse": "Gutter 14",
    "turnering": "Gutter 14, Breddeserie 03",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8415635"
+  },
+  {
+   "dato": "2026-12-15",
+   "tid": "20:30",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Froland",
+   "klasse": "5. divisjon Kvinner - 01",
+   "turnering": "5. divisjon Kvinner - 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8476200"
   }
  ]
 }
