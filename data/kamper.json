@@ -1,7 +1,7 @@
 {
- "oppdatert": "2026-11-24T13:20:53.230Z",
+ "oppdatert": "2026-11-25T12:13:13.272Z",
  "klubb": 60781,
- "antall": 37,
+ "antall": 39,
  "kamper": [
   {
    "dato": "2026-11-28",
@@ -325,6 +325,16 @@
   },
   {
    "dato": "2026-12-13",
+   "tid": "11:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart 2",
+   "borte": "Søgne 3",
+   "klasse": "Jenter 12 C-serie Agder",
+   "turnering": "Jenter 12 C-serie Agder",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8492391"
+  },
+  {
+   "dato": "2026-12-13",
    "tid": "13:00",
    "hall": "Håneshallen",
    "hjemme": "Vindbjart/Hånes",
@@ -352,6 +362,16 @@
    "klasse": "Jenter 12",
    "turnering": "Jenter 12, Breddeserie 04",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444503"
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "17:00",
+   "hall": "Venneslahallen",
+   "hjemme": "Grane Arendal 3",
+   "borte": "Vindbjart 2",
+   "klasse": "Jenter 12 C-serie Agder",
+   "turnering": "Jenter 12 C-serie Agder",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8492393"
   },
   {
    "dato": "2026-12-13",
