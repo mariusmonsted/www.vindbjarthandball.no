@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-25T12:13:13.272Z",
+ "oppdatert": "2026-11-26T11:57:30.092Z",
  "klubb": 60781,
  "antall": 39,
  "kamper": [
@@ -325,13 +325,13 @@
   },
   {
    "dato": "2026-12-13",
-   "tid": "11:00",
+   "tid": "11:50",
    "hall": "Venneslahallen",
-   "hjemme": "Vindbjart 2",
-   "borte": "Søgne 3",
-   "klasse": "Jenter 12 C-serie Agder",
-   "turnering": "Jenter 12 C-serie Agder",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8492391"
+   "hjemme": "Vindbjart ",
+   "borte": "Våg ",
+   "klasse": "Jenter 12",
+   "turnering": "Jenter 12, Breddeserie 04",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444503"
   },
   {
    "dato": "2026-12-13",
@@ -355,17 +355,17 @@
   },
   {
    "dato": "2026-12-13",
-   "tid": "14:50",
+   "tid": "14:45",
    "hall": "Venneslahallen",
-   "hjemme": "Vindbjart ",
-   "borte": "Våg ",
-   "klasse": "Jenter 12",
-   "turnering": "Jenter 12, Breddeserie 04",
-   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8444503"
+   "hjemme": "Vindbjart 2",
+   "borte": "Søgne 3",
+   "klasse": "Jenter 12 C-serie Agder",
+   "turnering": "Jenter 12 C-serie Agder",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8492391"
   },
   {
    "dato": "2026-12-13",
-   "tid": "17:00",
+   "tid": "17:15",
    "hall": "Venneslahallen",
    "hjemme": "Grane Arendal 3",
    "borte": "Vindbjart 2",
