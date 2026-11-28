@@ -1,7 +1,7 @@
 {
- "oppdatert": "2026-11-27T11:50:16.913Z",
+ "oppdatert": "2026-11-28T11:25:38.870Z",
  "klubb": 60781,
- "antall": 38,
+ "antall": 39,
  "kamper": [
   {
    "dato": "2026-11-28",
@@ -382,6 +382,16 @@
    "klasse": "5. divisjon Kvinner - 01",
    "turnering": "5. divisjon Kvinner - 01",
    "url": "https://www.handball.no/system/kamper/kamp/?matchid=8476200"
+  },
+  {
+   "dato": "2026-12-19",
+   "tid": "14:20",
+   "hall": "Venneslahallen",
+   "hjemme": "Vindbjart",
+   "borte": "Kristiansand 2",
+   "klasse": "Jenter 16",
+   "turnering": "Jenter 16, Breddeserie 01",
+   "url": "https://www.handball.no/system/kamper/kamp/?matchid=8406066"
   }
  ]
 }
